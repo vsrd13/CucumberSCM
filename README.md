@@ -1,4 +1,4 @@
-# Guru99 WebApplication testing using CucumberSCM
+# Guru99 WebApplication testing using CucumberSCM with Maven and Jenkins
 
 Go to Guru99 Bank at http://demo.guru99.com/v4/
 
